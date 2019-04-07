@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+body{
+    font-size: 18px;
+    font-family: arial;
+    color: #000;
+}
+.fullSec{
+    background: url('../images/bg10.png');
+    width: 100%;
+    height: 660px;
+    background-size: cover;
+}
+.midSec{
+    background: #ffffff3b;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 210px;
+    padding: 103px 0;
+}
